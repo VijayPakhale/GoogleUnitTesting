@@ -1,0 +1,6 @@
+
+1. Importance of Unit testing.
+   https://www.pcloudy.com/importance-of-unit-testing/#:~:text=Unit%20testing%20allows%20developers%20to,escalate%20to%20more%20critical%20stages.
+
+2. CI/CD Pipelines:
+	https://www.pcloudy.com/cicd-pipeline-demystifying-the-complexities/
