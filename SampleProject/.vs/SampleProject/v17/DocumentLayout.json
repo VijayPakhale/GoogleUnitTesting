@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Git\\GoogleUnitTesting\\SampleProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD55A79A-742E-4838-A8AE-EE79BF2F5EF9}|SampleProject\\SampleProject.vcxproj|D:\\Git\\GoogleUnitTesting\\SampleProject\\SampleProject\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BD55A79A-742E-4838-A8AE-EE79BF2F5EF9}|SampleProject\\SampleProject.vcxproj|solutionrelative:SampleProject\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\Git\\GoogleUnitTesting\\SampleProject\\SampleProject\\main.cpp",
+              "RelativeDocumentMoniker": "SampleProject\\main.cpp",
+              "ToolTip": "D:\\Git\\GoogleUnitTesting\\SampleProject\\SampleProject\\main.cpp",
+              "RelativeToolTip": "SampleProject\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-18T15:25:04.824Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

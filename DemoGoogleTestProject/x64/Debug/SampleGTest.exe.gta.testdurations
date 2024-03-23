@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GtaTestDurations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Executable>D:\Git\GoogleUnitTesting\DemoGoogleTestProject\x64\Debug\SampleGTest.exe</Executable>
+  <TestDurations>
+    <TestDuration Test="TestCaseName.TestName" Duration="1" />
+    <TestDuration Test="SqrtOf100.CheckSquareRoot" Duration="1" />
+    <TestDuration Test="CheckRuntimeException.ExceptionTests" Duration="1" />
+    <TestDuration Test="CheckAnyException.ExceptionTests" Duration="1" />
+    <TestDuration Test="CheckNoException.ExceptionTests" Duration="1" />
+    <TestDuration Test="DefaultBalance.AccountTesting" Duration="1" />
+    <TestDuration Test="CheckDepositeBalance.AccountTesting" Duration="1" />
+    <TestDuration Test="CheckWithdrawBalance.AccountTesting" Duration="1" />
+    <TestDuration Test="CheckWrongWithdrawalException.AccountTesting" Duration="1" />
+    <TestDuration Test="CheckBalanceTransfer.AccountTesting" Duration="1" />
+    <TestDuration Test="AccountTestFixtures.TestDeposite" Duration="1" />
+    <TestDuration Test="AccountTesting.DefaultBalance" Duration="1" />
+    <TestDuration Test="AccountTesting.CheckDepositeBalance" Duration="1" />
+    <TestDuration Test="AccountTesting.CheckWithdrawBalance" Duration="1" />
+    <TestDuration Test="AccountTesting.CheckWrongWithdrawalException" Duration="1" />
+    <TestDuration Test="AccountTesting.CheckBalanceTransfer" Duration="1" />
+    <TestDuration Test="TestName.TestCaseName" Duration="1" />
+    <TestDuration Test="CheckSquareRoot.SqrtOf100" Duration="1" />
+    <TestDuration Test="ExceptionTests.CheckAnyException" Duration="1" />
+    <TestDuration Test="ExceptionTests.CheckRuntimeException" Duration="1" />
+    <TestDuration Test="ExceptionTests.CheckNoException" Duration="1" />
+    <TestDuration Test="AccountTestFixtures.ZeroBalanceTest" Duration="1" />
+    <TestDuration Test="AccountTestFixtures.FullBalanceWithdrawalTest" Duration="1" />
+    <TestDuration Test="CheckInRange/ValidateFixture.CheckInRange/0" Duration="1" />
+    <TestDuration Test="CheckInRange/ValidateFixture.CheckInRange/1" Duration="1" />
+    <TestDuration Test="CheckInRange/ValidateFixture.CheckInRange/2" Duration="1" />
+    <TestDuration Test="CheckInRange/ValidateFixture.CheckInRange/3" Duration="1" />
+    <TestDuration Test="CheckInRange/ValidateFixture.CheckNotInRange/0" Duration="1" />
+    <TestDuration Test="CheckInRange/ValidateFixture.CheckNotInRange/1" Duration="1" />
+    <TestDuration Test="CheckInRange/ValidateFixture.CheckNotInRange/2" Duration="1" />
+    <TestDuration Test="CheckInRange/ValidateFixture.CheckNotInRange/3" Duration="1" />
+    <TestDuration Test="CheckNotInRange/ValidateFixture.CheckInRange/0" Duration="4" />
+    <TestDuration Test="CheckNotInRange/ValidateFixture.CheckInRange/1" Duration="1" />
+    <TestDuration Test="CheckNotInRange/ValidateFixture.CheckInRange/2" Duration="1" />
+    <TestDuration Test="CheckNotInRange/ValidateFixture.CheckInRange/3" Duration="19" />
+    <TestDuration Test="CheckNotInRange/ValidateFixture.CheckNotInRange/0" Duration="1" />
+    <TestDuration Test="CheckNotInRange/ValidateFixture.CheckNotInRange/1" Duration="1" />
+    <TestDuration Test="CheckNotInRange/ValidateFixture.CheckNotInRange/2" Duration="1" />
+    <TestDuration Test="CheckNotInRange/ValidateFixture.CheckNotInRange/3" Duration="1" />
+    <TestDuration Test="CheckNotInRange/ValidateNegativeFixture.CheckNotInRange/0" Duration="1" />
+    <TestDuration Test="CheckNotInRange/ValidateNegativeFixture.CheckNotInRange/1" Duration="1" />
+    <TestDuration Test="CheckNotInRange/ValidateNegativeFixture.CheckNotInRange/2" Duration="1" />
+    <TestDuration Test="CheckNotInRange/ValidateNegativeFixture.CheckNotInRange/3" Duration="1" />
+    <TestDuration Test="CheckIntCases/ValidatePairFixture.CheckIntCases/0" Duration="1" />
+    <TestDuration Test="CheckIntCases/ValidatePairFixture.CheckIntCases/1" Duration="1" />
+  </TestDurations>
+</GtaTestDurations>
